@@ -1,0 +1,14 @@
+id,menu,title,link
+1,Settings,My Tutorial,https://qaplayground.dev/apps/multi-level-dropdown/#main
+2,Settings,HTML,https://qaplayground.dev/apps/multi-level-dropdown/#!HTML
+3,Settings,CSS,https://qaplayground.dev/apps/multi-level-dropdown/#!CSS
+4,Settings,JavaScript,https://qaplayground.dev/apps/multi-level-dropdown/#!JavaScript
+5,Settings,Awesome!,https://qaplayground.dev/apps/multi-level-dropdown/#!Awesome
+6,Animals,Animals,https://qaplayground.dev/apps/multi-level-dropdown/#main
+7,Animals,Kangaroo,https://qaplayground.dev/apps/multi-level-dropdown/#!Kangaroo
+8,Animals,Frog,https://qaplayground.dev/apps/multi-level-dropdown/#!Frog
+9,Animals,Horse,https://qaplayground.dev/apps/multi-level-dropdown/#!Horse
+10,Animals,Hedgehog,https://qaplayground.dev/apps/multi-level-dropdown/#!Hedgehog
+11,Main menu,My Profile,https://qaplayground.dev/apps/multi-level-dropdown/#undefined
+12,Main menu,Settings,https://qaplayground.dev/apps/multi-level-dropdown/#settings
+13,Main menu,Animals,https://qaplayground.dev/apps/multi-level-dropdown/#animals
